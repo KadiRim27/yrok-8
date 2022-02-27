@@ -1,0 +1,4 @@
+https://kadirim27.github.io/lesson2/
+ощибки 
+1) вложенность в li
+2)alt
